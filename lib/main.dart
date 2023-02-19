@@ -1,6 +1,7 @@
 
-import 'package:exercicios_iniciante/src/exercicio_1005.dart';
+
+import 'package:exercicios_iniciante/src/exercicio_1006.dart';
 
 void main(List<String> args) {
-  exercicio1005();
+  exercicio1006();
 }
