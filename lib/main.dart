@@ -1,6 +1,8 @@
 
-import 'package:exercicios_iniciante/src/1003.dart';
+
+
+import 'package:exercicios_iniciante/src/1004.dart';
 
 void main(List<String> args) {
-  exercicioMilETres();
+  exercicioMilEQuatro();
 }
