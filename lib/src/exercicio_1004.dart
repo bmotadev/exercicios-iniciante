@@ -1,7 +1,6 @@
 import 'dart:io';
-import 'dart:async';
 
-exercicioMilEQuatro() {
+exercicio1004() {
   int valorA = int.parse(stdin.readLineSync()!);
   int valorB = int.parse(stdin.readLineSync()!);
 

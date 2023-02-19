@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-exercicioMilEDois() {
+exercicio1002() {
   // double raio = double.parse(stdin.readLineSync()!); // ! - estamos garantindo que nunca vai ser nula
   // double n = 3.14159;
 

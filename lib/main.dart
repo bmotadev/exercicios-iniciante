@@ -1,8 +1,10 @@
 
 
 
-import 'package:exercicios_iniciante/src/1004.dart';
+
+
+import 'package:exercicios_iniciante/src/exercicio_1004.dart';
 
 void main(List<String> args) {
-  exercicioMilEQuatro();
+  exercicio1004();
 }
