@@ -1,5 +1,5 @@
-import 'src/exercicio_1007.dart';
+import 'src/exercicio_1008.dart';
 
 void main(List<String> args) {
-  diferenca1007();
+  exercicio1008();
 }
